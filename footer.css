@@ -1,0 +1,222 @@
+.footer
+{
+    position: absolute;
+    width: 1920px;
+    height: 825px;
+    left: 0px;
+    top: 4300px;
+
+    background: #4A607A;
+}
+.divider
+{
+    position: absolute;
+    width: 1920px;
+    height: 0px;
+    left: 0px;
+    top: 462px;
+
+    border: 1px solid #9C9C9C;
+    color: #4A607A;
+}
+.vk
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1300px;
+    top: 348px;
+}
+.telega
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1350px;
+    top: 348px;
+
+}
+.insta
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1450px;
+    top: 348px;
+}
+.faceb
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1400px;
+    top: 348px;
+}
+.button_kak
+{
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+    position: absolute;
+    width: 266px;
+    height: 55px;
+    left: 1000px;
+    top: 341px;
+
+    background: #FFFFFF;
+
+    border: 1px solid #4A607A;
+    box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+
+    cursor: pointer;
+}
+.button_kak_text
+{
+    position: absolute;
+    width: 1177px;
+    height: 464px;
+    left: 75px;
+    top: 18px;
+}
+.text
+{
+    position: absolute;
+    width: 1177px;
+    height: 464px;
+    left: 138px;
+    top: 84px;
+}
+.email
+{
+    position: absolute;
+    width: 184px;
+    height: 52px;
+    left: 1038px;
+    top: 150px;
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    
+    color: #FFFFFF;
+}
+.tel
+{
+    position: absolute;
+    width: 277px;
+    height: 29px;
+    left: 1038px;
+    top: 100px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+.adres_p
+{
+    position: absolute;
+    width: 277px;
+    height: 42px;
+    left: 1038px;
+    top: 20px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #9C9C9C;
+}
+.graphic_r
+{
+    position: absolute;
+    width: 250px;
+    height: 138px;
+    left: 738px;
+    top: 100px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #9C9C9C;
+}
+.adres_sam
+{
+    position: absolute;
+    width: 248px;
+    height: 42px;
+    left: 738px;
+    top: 20px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #9C9C9C;
+}
+.strah_doc
+{
+    position: absolute;
+    width: 184px;
+    height: 189px;
+    left: 438px;
+    top: 20px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #DDD0A4;
+}
+.glav
+{
+    position: absolute;
+    width: 189px;
+    height: 315px;
+    left: 138px;
+    top: 20px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+}
+.niz
+{
+    position: absolute;
+    width: 1365px;
+    height: 200px;
+    left: 138px;
+    top: 400px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 50px;
+
+    color: #9C9C9C;
+}

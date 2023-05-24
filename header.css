@@ -1,0 +1,134 @@
+.logo
+{
+    position: absolute;
+    left: 143px;
+    top: 11px;
+}
+header
+{
+    position: absolute;
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 15px rgba(49, 60, 72, 0.05);
+}
+.glavnaia
+{
+    position: absolute;
+    width: 62px;
+    height: 21px;
+    left: 100px;
+    top: 4px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+    color: #0D1C41;
+}
+.o_nas
+{
+    position: absolute;
+    width: 60px;
+    height: 21px;
+    left: 250px;
+    top: 4px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+    color: #000000;
+}
+.help
+{
+    position: absolute;
+    width: 66px;
+    height: 21px;
+    left: 375px;
+    top: 4px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+    color: #000000;
+}
+.saint_peter
+{
+    position: absolute;
+    width: 190px;
+    height: 21px;
+    left: 505px;
+    top: 4px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+
+    color: #000000;
+}
+.number
+{
+    position: absolute;
+    width: 179px;
+    height: 29px;
+    left: 725px;
+    top: 0px;
+
+    font-family: 'SF Pro Display';
+    font-style: bold;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 37px;
+
+    color: #0D1C41;
+}
+.five_knopok
+{
+    position: absolute;
+    width: 733px;
+    height: 29px;
+    left: 338px;
+    top: 28px;
+}
+.end_of_header
+{
+    position: absolute;
+    width: 213px;
+    height: 55px;
+    left: 1400px;
+    top: 12px;
+
+    background: #FFFFFF;
+}
+.kabinet
+{
+    position: absolute;
+    width: 160px;
+    height: 21px;
+    left: 16px;
+    top: 17px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+
+    color: #0D1C41;
+}
+.logo_kabinet
+{
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 200px;
+    top: 12px;
+}
